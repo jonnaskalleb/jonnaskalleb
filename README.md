@@ -5,7 +5,7 @@
 ### Sobre mim:
 - 🎓Graduando em Economia 
  - 🌏Moro e trabalho no Brasil, RJ  
-- 🎯Focado em gerar resultados com Análise de Dados  
+- 🎯Focado em gerar resultados 
 
 ---
 

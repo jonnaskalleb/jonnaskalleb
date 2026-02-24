@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Analista de Negócios
 
-## 💡 Onde há dados, há oportunidades. Transformando dados em insights que geram valor.
+## 💡Uso dados para entender problemas reais e gerar decisões de negócio 
 
 ### Sobre mim:
 - 🎓Graduando em Economia 

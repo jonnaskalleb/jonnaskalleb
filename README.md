@@ -1,11 +1,11 @@
-# Olá, eu sou Jonas 👋
+# 👨🏻‍💻 Analista de Negócios
 
-## Analista de Negócios
+## 💡 Onde há dados, há oportunidades. Transformando dados em insights que geram valor.
 
 ### Sobre mim:
-- 📚 Graduando em Economia  
-- 📍 Moro e trabalho no Brasil, RJ  
-- 💡 Focado em gerar resultados com Análise de Dados  
+- 🎓Graduando em Economia 
+ - 🌏Moro e trabalho no Brasil, RJ  
+- 🎯Focado em gerar resultados com Análise de Dados  
 
 ---
 
@@ -18,7 +18,8 @@
 
 ---
 
-## 📊 Portfólio e Principais Projetos
+## 📊 Portfólio e Principais Projetos:
+### Estruturando meu portfólio para unir a visão estratégica da Economia com o poder da Análise de Dados
 - Business Analytics - Em desenvolvimento 🚧  
 
-- Economics Research - Em desenvolvimento 🚧   
+- Economics Research - Em desenvolvimento 🚧      

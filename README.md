@@ -21,4 +21,4 @@
 ## 📊 Portfólio e Principais Projetos
 - Business Analytics - Em desenvolvimento 🚧  
 
-- Economics Research Em desenvolvimento 🚧   
+- Economics Research - Em desenvolvimento 🚧   

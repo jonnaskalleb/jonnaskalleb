@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Jonas 👋
 
-<!--
-**jonnaskalleb/jonnaskalleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Analista de Negócios
 
-Here are some ideas to get you started:
+### Sobre mim:
+- 📚 Graduando em Economia  
+- 📍 Moro e trabalho no Brasil, RJ  
+- 💡 Focado em gerar resultados com Análise de Dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙Principais Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+---
+
+## 📊 Portfólio e Principais Projetos
+- Business Analytics - Em desenvolvimento 🚧  
+
+- Economics Research Em desenvolvimento 🚧   

@@ -3,7 +3,7 @@
 ## 💡Uso dados para entender problemas reais e gerar decisões de negócios 
 
 ### Sobre mim:
-- 🎓Graduando em Economia 
+- 🎓Graduando em Economia
  - 🌏Moro e trabalho no Brasil, RJ  
 - 🎯Focado em gerar resultados 
 

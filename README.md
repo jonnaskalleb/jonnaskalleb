@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Analista de Negócios
 
-## 💡Uso dados para entender problemas reais e gerar decisões de negócio 
+## 💡Uso dados para entender problemas reais e gerar decisões de negócios 
 
 ### Sobre mim:
 - 🎓Graduando em Economia 

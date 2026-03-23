@@ -20,6 +20,6 @@
 
 ## 📊 Portfólio e Principais Projetos:
 ### Estruturando meu portfólio para unir a visão estratégica da Economia com o poder da Análise de Dados
-- Business Analytics - Em desenvolvimento 🚧  
+- Business Analytics - (https://github.com/jonnaskalleb/BusinessAnalytics.git)  
 
 - Economics Research - Em desenvolvimento 🚧      

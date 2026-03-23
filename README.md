@@ -22,4 +22,4 @@
 ### Estruturando meu portfólio para unir a visão estratégica da Economia com o poder da Análise de Dados
 - Business Analytics - 🔗 [Business Analytics](https://github.com/jonnaskalleb/BusinessAnalytics) 
 
-- Economics Research - Em desenvolvimento 🚧      
+- Economics Research - Em desenvolvimento 🚧 https://github.com/jonnaskalleb/Economics-Research.git     
